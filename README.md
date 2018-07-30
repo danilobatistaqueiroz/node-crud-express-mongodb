@@ -1,4 +1,4 @@
-# Repo for Zell's CRUD, Express and MongoDB tutorial
+# CRUD using Nodejs, Express and MongoDB
 
 - [Demo](https://crud-express-mongo.herokuapp.com)
 - [Tutorial](http://zell-weekeat.com/crud-express-mongodb)
